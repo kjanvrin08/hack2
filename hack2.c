@@ -1,5 +1,5 @@
 /**
- * Author: James Kyle Janvrin
+ * Author: James Kyle Janvrin & Jake Wilson
  *
  *
  *
